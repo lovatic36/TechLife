@@ -2,6 +2,9 @@
 <html lang="en-US">
 <head>
 <title>TechLife</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 </head>
 <body>
 
@@ -15,8 +18,9 @@
        url('webfont.svg#svgFontName') format('svg'); /* Legacy iOS */
 }
 </style>
-<header>
-<h1 style="color:#8cf442;font-size:60px;font-family:Nasalization;text-align:center;">TechLife</h1>
+
+<header class="container-fluid">
+<h1 style="color:#8cf442;font-size:60px;font-family:Nasalization;text-align:center;LINE-HEIGHT:20px;">TechLife</h1>
 <h2 style="font-family:calibri;text-align:center;LINE-HEIGHT:20px;">A Virtual Reality Project</h2>
 </header>
 
