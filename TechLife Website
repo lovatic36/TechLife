@@ -20,9 +20,17 @@
 </style>
 
 <header class="container-fluid">
-<h1 style="color:#8cf442;font-size:60px;font-family:Nasalization;text-align:center;LINE-HEIGHT:20px;">TechLife</h1>
+<h1 style="color:#8cf442;font-size:60px;font-family:Nasalization;text-align:center;LINE-HEIGHT:40px;">TechLife</h1>
 <h2 style="font-family:calibri;text-align:center;LINE-HEIGHT:20px;">A Virtual Reality Project</h2>
 </header>
+<div class="row">
+  <div class="col-sm-3">
+  </div>
+  <div class="col-sm-9">
+    <p class="lead" style="font-family:calibri;LINE-HEIGHT:20px;"><b>About us</b></p>
+    <p>TechLife is an extracurricular activity of <abbr title="Sycamore High School">SHS</abbr> that is commited in 3D modeling a human cell for Virtual Reality. This is a wonderful opportunity for Biology students who want to have a deeper understanding of cell structure and function</p>
+  </div>
+</div>
 
 
 
